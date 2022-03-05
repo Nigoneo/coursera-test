@@ -1,0 +1,29 @@
+#header-nav{
+	background-color: lightgray;
+}
+#nav-list a{
+	color: black;
+}
+#nav-list a:hover{
+	background-color: gray;
+	color: white;
+}
+#header{
+	margin: 20px 0 35px 0;
+}
+.tile{
+	background-color: lightgray;
+}
+.tile h3{
+	text-align: center;
+	padding: 5px 0;
+}
+.tile p{
+	padding: 0 15px 15px 15px;
+}
+
+@media (max-width: 575px){
+	.tile{
+		margin: 0 50px;
+	}
+}
