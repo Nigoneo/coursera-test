@@ -1,5 +1,6 @@
 #header-nav{
 	background-color: lightgray;
+	border: 2px solid black;
 }
 #nav-list a{
 	color: black;
@@ -15,7 +16,6 @@
 	background-color: lightgray;
 }
 .tile h3{
-	text-align: center;
 	padding: 5px 0;
 }
 .tile p{
